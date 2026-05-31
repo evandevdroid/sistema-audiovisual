@@ -1,0 +1,11 @@
+id,tipo,titulo,anio,genero,idioma,campo_extra1,campo_extra2
+1,Pelicula,Inception,2010,Ciencia Ficcion,Ingles,148,Christopher Nolan
+2,Pelicula,El Padrino,1972,Drama,Italiano,175,Francis Ford Coppola
+3,Serie,Breaking Bad,2008,Drama,Ingles,Finalizada
+4,Serie,Stranger Things,2016,Terror,Ingles,En emision
+5,Documental,Planet Earth,2006,Naturaleza,Ingles,Medio Ambiente,50
+6,Documental,El Cosmos,2014,Ciencia,Espanol,Astronomia,44
+7,Pelicula,Avengers Endgame,2019,Accion,Ingles,181,Anthony Russo
+8,Serie,Dark,2017,Misterio,Aleman,Finalizada
+9,Pelicula,Parasite,2019,Drama,Coreano,132,Bong Joon-ho
+10,Documental,13th,2016,Politica,Ingles,Justicia Social,100
